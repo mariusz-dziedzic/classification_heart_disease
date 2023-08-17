@@ -1,3 +1,7 @@
+To view the data and analysis, you can simply download the HTML file and run it in your browser
+
+or:
+
 Before starting:
 - The program is available in a version to run in Jupyter Notebook and in a standard Python file.
 - Make sure you have all packages necessary for booting installed. They should be installed by default in Jupiter, but when running a script from a Python file, you may get an error related to importing the library. In this case, execute the following commands in CMD:

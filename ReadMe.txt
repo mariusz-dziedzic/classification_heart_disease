@@ -1,4 +1,4 @@
-To view the data and analysis, you can simply download the HTML file and run it in your browser
+To view the data and analysis, you can simply open page: https://mariusz-dziedzic.github.io/jupyter_notebook/heart_disease%20_classification.html
 
 or:
 
